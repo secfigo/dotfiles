@@ -1,0 +1,117 @@
+## Install a ton of great apps using Homebrew cask instead of downloading, clicking and manually installing :)
+
+## Standard app replacements
+# Web
+google-chrome
+firefox
+
+# Design
+xquartz
+inkscape
+gimp
+scribus #scribus-ng
+blender
+handbrake
+
+# Terminal
+iterm2
+
+## Boxes
+# Virtualization
+vagrant
+vagrant-manager
+virtualbox
+
+# Containers
+docker
+
+## Coding
+
+# API documentation
+dash
+
+# Text editing
+sublime-text
+macvim
+atom
+
+# Markdown
+macdown
+
+## Desktop
+# Proper screen ligthing
+flux
+
+# Productivity
+alfred
+
+# Window management
+spectacle
+
+# Screenshot 
+skitch
+
+## Media
+# Video player
+vlc
+
+# PDF reader
+skim
+
+# Picture viewer
+xee
+
+# Comic reader
+#simple-comic
+
+# Soundcloud client (yes, that's the correct spelling)
+soundcleod
+
+# Podcast player
+# instacast
+spotify
+
+
+## Work
+# Screen recording
+screenflow
+
+# Note taking
+#nvalt
+# Collaboration
+slack 
+# google-hangouts, use extension instead.
+
+# Podcast cleanup
+# levelator
+audio-hijack
+
+## Cloud resources
+google-cloud-sdk
+
+## Social
+# Skype
+skype
+
+## Storage
+# Online storage
+google-backup-and-sync #google-drive, google playing name change game again
+
+# Compression
+keka
+# Management
+filezilla
+
+# Torrentz
+transmission
+vuze
+
+# Fonts
+font-clear-sans
+font-roboto
+
+#Utilities
+gpgtools
+itsycal # Sane calendar
+the-unarchiver # some untar goodies
+teamviewer # Remote Grandma system fix

@@ -1,10 +1,10 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
-DEFAULT_USER="username"
+DEFAULT_USER="secfigo" # change this to something, its just dummy username
 
 # Path to your oh-my-zsh installation.
-# export ZSH=/home/username/.oh-my-zsh
+# export ZSH=/home/secfigo/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.

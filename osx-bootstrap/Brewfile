@@ -1,0 +1,52 @@
+## Productive stuff
+ack
+httpie
+wget
+packer
+watch
+jq
+webp
+
+## Programming stuff
+vim
+rbenv
+ruby-build
+ngrok
+nvm
+npm
+node
+pyenv
+python
+python3
+git
+hub
+git-flow
+
+# Deploy
+ansible
+awscli
+
+## Shell stuff
+zsh
+zsh-completions
+zsh-syntax-highlighting
+tmux
+tmate
+tree
+gnu-indent
+gnu-sed
+gnu-tar
+gnu-which
+graphviz
+terminal-notifier
+
+
+## VPN stuff
+#tuntap
+#openconnect
+
+## brew cask and more versions of casks
+caskroom/cask/brew-cask
+
+## Time-waste stuff
+youtube-dl
