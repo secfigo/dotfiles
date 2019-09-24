@@ -111,7 +111,6 @@ font-clear-sans
 font-roboto
 
 #Utilities
-gpgtools
-itsycal # Sane calendar
+gpg-suite
 the-unarchiver # some untar goodies
 teamviewer # Remote Grandma system fix
