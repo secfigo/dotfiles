@@ -26,6 +26,7 @@ virtualbox
 docker
 
 ## Coding
+visual-studio-code
 
 # API documentation
 dash
@@ -45,8 +46,11 @@ flux
 # Productivity
 alfred
 
+# Sane calendar
+itsycal
+
 # Window management
-spectacle
+rectangle
 
 # Screenshot 
 skitch
@@ -65,11 +69,11 @@ xee
 #simple-comic
 
 # Soundcloud client (yes, that's the correct spelling)
-soundcleod
+# soundcleod
 
 # Podcast player
 # instacast
-spotify
+# spotify
 
 
 ## Work
@@ -113,4 +117,3 @@ font-roboto
 #Utilities
 gpg-suite
 the-unarchiver # some untar goodies
-teamviewer # Remote Grandma system fix
