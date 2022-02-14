@@ -111,8 +111,8 @@ transmission
 vuze
 
 # Fonts
-font-clear-sans
-font-roboto
+# font-clear-sans
+# font-roboto
 
 #Utilities
 gpg-suite
