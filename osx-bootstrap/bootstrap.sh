@@ -19,7 +19,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 echo "DONT Forget to do BundleInstall in vim after the installation"
 
 # Install casks
-brew cask install $(cat Caskfile|grep -v "#")
+brew install --cask $(cat Caskfile|grep -v "#")
 
 # Set standard settings
 source 'settings.sh'
